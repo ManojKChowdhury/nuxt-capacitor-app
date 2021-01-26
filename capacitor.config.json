@@ -1,0 +1,14 @@
+{
+  "appId": "com.example.app",
+  "appName": "nuxt-capacitor-app",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {},
+  "windowsAndroidStudioPath": "D:\\Softwares\\Jetbrains\\Toolbox\\apps\\AndroidStudio\\ch-0\\201.7042882\\bin\\studio64.exe"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "nuxt-capacitor-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@capacitor/android": "2.4.6",
+    "@capacitor/cli": "^2.4.6",
+    "@capacitor/core": "^2.4.6",
+    "@codetrix-studio/capacitor-google-auth": "^2.1.3",
+    "@ionic/vue": "^5.5.2",
+    "@ionic/vue-router": "^5.5.2",
+    "@nuxtjs/axios": "^5.12.5",
+    "@nuxtjs/pwa": "^3.3.4",
+    "core-js": "^3.8.2",
+    "nuxt": "^2.14.12"
+  },
+  "devDependencies": {}
+}
